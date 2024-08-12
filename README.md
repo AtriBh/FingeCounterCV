@@ -11,14 +11,11 @@ This project is a simple finger counter built using Mediapipe, which recognizes 
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/AtriBh/FingeCounterCV.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
